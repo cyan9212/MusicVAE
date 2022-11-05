@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/train/model.ckpt-100"
+all_model_checkpoint_paths: "/content/train/model.ckpt-85"
+all_model_checkpoint_paths: "/content/train/model.ckpt-89"
+all_model_checkpoint_paths: "/content/train/model.ckpt-93"
+all_model_checkpoint_paths: "/content/train/model.ckpt-97"
+all_model_checkpoint_paths: "/content/train/model.ckpt-100"
